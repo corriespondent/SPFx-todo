@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "corrie-to-do-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/corrieToDo/CorrieToDoWebPart.js",
+          "manifest": "./src/webparts/corrieToDo/CorrieToDoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CorrieToDoWebPartStrings": "lib/webparts/corrieToDo/loc/{locale}.js"
+  }
+}

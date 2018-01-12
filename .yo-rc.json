@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "todo-webpart-rebuild",
+    "libraryId": "9270563c-99e9-452b-bd03-314710589407",
+    "environment": "spo"
+  }
+}

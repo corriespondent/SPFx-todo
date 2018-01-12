@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "todo-webpart-rebuild-client-side-solution",
+    "id": "9270563c-99e9-452b-bd03-314710589407",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/todo-webpart-rebuild.sppkg"
+  }
+}
